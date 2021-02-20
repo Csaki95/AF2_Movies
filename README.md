@@ -3,7 +3,7 @@
 
 ## Feladat
 
- A feladat egy filmes bakancslista MVC alkalmazás létrehozása WinForms, és SQLite adatbázis segítségével.
+ A feladat egy filmes bakancslista MVC alkalmazás létrehozása WinForms-al, és SQLite adatbázis segítségével.
 
  ### Eredeti kiírása
 
